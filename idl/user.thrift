@@ -1,4 +1,4 @@
-namespace go user.exmple
+namespace go user.example
 
 struct User {
   1: i64 ID

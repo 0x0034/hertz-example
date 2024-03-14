@@ -3,7 +3,7 @@
 package main
 
 import (
-	handler "github.com/0x0034/hertz-exmaple/biz/handler"
+	handler "github.com/0x0034/hertz-example/biz/handler"
 	"github.com/cloudwego/hertz/pkg/app/server"
 )
 

@@ -1,4 +1,4 @@
-module github.com/0x0034/hertz-exmaple
+module github.com/0x0034/hertz-example
 
 go 1.21.5
 
